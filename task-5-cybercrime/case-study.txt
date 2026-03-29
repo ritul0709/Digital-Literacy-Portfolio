@@ -17,3 +17,33 @@ Prevention:
 - Check email authenticity
 - Use strong passwords
 - Enable two-factor authentication
+
+
+Phishing is a  type of cybercrime where attackers try to trick people into sharing sensitive information such as passwords, bank details, or OTPs by pretending to be a trusted source.
+
+In this case, a user received an email that appeared to be from their bank. The email stated that there was an urgent issue with the user’s account and asked them to click on a link to verify their details.
+
+The user clicked on the link, which redirected them to a fake website that looked exactly like the bank’s official website. Without realizing it was fake, the user entered their login credentials and OTP.
+
+As a result, the attacker gained access to the user’s bank account and transferred money without permission.
+
+Impact:
+- Financial loss to the user
+- Theft of personal and banking information
+- Loss of trust in online services
+
+Why it happened:
+- The user trusted the email without verification
+- The website looked genuine
+- Lack of awareness about phishing attacks
+
+Prevention:
+- Always check the sender’s email address carefully
+- Do not click on suspicious or unknown links
+- Never share OTP, passwords, or personal details
+- Use strong and unique passwords
+- Enable two-factor authentication for extra security
+- Verify information directly from official websites
+
+Conclusion:
+This case study shows how easily people can be tricked online. It highlights the importance of being alert and cautious while using digital platforms. Awareness and safe practices can help prevent such cybercrimes.
