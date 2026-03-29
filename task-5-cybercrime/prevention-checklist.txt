@@ -1,7 +1,18 @@
-Cyber Safety Checklist:
+Stay Safe Online – Prevention Checklist
 
-- Do not share personal information online
-- Use strong and unique passwords
-- Enable two-factor authentication
-- Avoid suspicious links and emails
-- Keep devices updated with security patches
+- Do not click on suspicious links received through email, SMS, or social media.
+- Always verify the sender’s email address or phone number before responding.
+- Use strong and unique passwords for different accounts.
+- Enable two-factor authentication (2FA) for added security.
+
+- Never share your OTP, PIN, or passwords with anyone, even if they claim to be from a bank.
+- Always check UPI app notifications carefully before approving any payment request.
+- Do not scan unknown QR codes, as they can lead to unauthorized transactions.
+- Regularly check your bank statements and UPI transaction history.
+
+- Avoid using public Wi-Fi for financial transactions or sensitive activities.
+- Keep your devices updated with the latest security patches and antivirus software.
+
+Reporting Cybercrime in India:
+- Report incidents at the National Cyber Crime Portal: https://cybercrime.gov.in
+- Call the Cyber Crime Helpline: 1930 for immediate assistance
