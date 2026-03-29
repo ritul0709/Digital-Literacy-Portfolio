@@ -1,0 +1,19 @@
+Case Study: Phishing Attack
+
+Phishing is a common type of cybercrime where attackers try to trick people into sharing sensitive information like passwords, bank details, or OTPs.
+
+In this case, a user received an email that looked like it was from a bank. The email asked the user to click on a link and enter their login details. The user trusted the email and entered the information.
+
+As a result, the attacker gained access to the user’s account and caused financial loss.
+
+Impact:
+- Loss of money
+- Personal data stolen
+- Privacy breach
+
+Prevention:
+- Do not click on unknown links
+- Never share OTP or passwords
+- Check email authenticity
+- Use strong passwords
+- Enable two-factor authentication
