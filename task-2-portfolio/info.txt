@@ -1,1 +1,11 @@
+In this task, I created my professional profiles on GitHub, LinkedIn, and Stack Overflow.
 
+GitHub is used to create, manage, and showcase projects. I also created a profile README to introduce myself and highlight my learning goals.
+
+LinkedIn is a professional networking platform where I added my education details and built my online professional identity.
+
+Stack Overflow is a platform where users can ask and answer technical questions, which helps in learning and problem-solving.
+
+Over the next four years, I plan to actively use GitHub to upload my projects and track my progress. I will use LinkedIn to build professional connections and explore internships. I will use Stack Overflow to learn from the community and solve technical doubts.
+
+This task helped me understand the importance of building a strong digital presence and maintaining a professional online profile.
