@@ -1,6 +1,6 @@
-# Digital-Literacy-Portfolio
+# Digital-Literacy
 My Digital Literacy Project 
-# Digital Literacy Portfolio
+# Digital Literacy 
 
 ## 👤 Student Details
 **Name:** Ritul Jain  
